@@ -1,3 +1,3 @@
-# Example Repo
+# GH Security
 
-This is a super simple example repository!
+SECTION 10: Security & Permissions - Lecture 133
